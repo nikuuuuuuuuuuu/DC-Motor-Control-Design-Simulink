@@ -13,3 +13,4 @@ Plant:DC Motor Transfer Function.
 Software Used: MATLAB R2026a & Simulink
 # Results
 Control Effort Comparison
+![Control Effort Plot](graph_image.png)
