@@ -9,7 +9,7 @@ Electric Vehicle (EV) Powertrains:- Managing smooth torque and speed transitions
 Robotic Actuators :-Ensuring precise speed and position control in robotic arms under varying load conditions.
 Industrial Conveyor Systems:-Maintaining constant speed in assembly lines when heavy loads are added or removed.
 # Methodology & Architecture
-Plant:DC Motor Transfer Function
+Plant:DC Motor Transfer Function.
 Software Used: MATLAB R2026a & Simulink
 # Results
 Control Effort Comparison
